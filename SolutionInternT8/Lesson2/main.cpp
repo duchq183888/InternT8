@@ -17,7 +17,7 @@ int main()
 	int n;
 	cin >> n;
 
-	while (n <= 0) {
+	while (n <= 0||n>=20) {
 		printf("Invalid input! Please re-enter:\n ");
 		cin >> n;
 	}
