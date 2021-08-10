@@ -22,6 +22,6 @@ int main()
 		cin >> n;
 	}
 
-	printf("\n%d! = %d", n, Fact(n));
+	printf("\n%d! = %d ", n, Fact(n));
 	
 }
