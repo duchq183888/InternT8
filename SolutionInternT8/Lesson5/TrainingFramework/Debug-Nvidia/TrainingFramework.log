@@ -1,0 +1,4 @@
+﻿  GSMenu.cpp
+C:\Users\hqd16\Downloads\MiniGameStarter\TrainingFramework\src\GameStates\GSMenu.cpp(30,72): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\hqd16\Downloads\MiniGameStarter\TrainingFramework\src\GameStates\GSMenu.cpp(40,72): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  TrainingFramework.vcxproj -> C:\Users\hqd16\Downloads\MiniGameStarter\BIN-Nvidia\TrainingFramework.exe
